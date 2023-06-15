@@ -1,0 +1,60 @@
+body{
+   background-color:lightblue;
+   
+}
+
+h1{
+     text-align: center;
+}
+
+#img{
+   background-color: #E6EEED;
+}
+
+#box{
+     background-color:rgb(36, 38, 38);
+}
+
+#navTop{
+    background-color:lightblue;
+}
+
+#imgMain{
+      align-items: center;
+     justify-content: center;
+     margin: auto;
+      display: flex;
+}
+
+#pg{
+     font-size:35px;
+      font-weight: bold;
+      color: #104FF6;
+      font-family: cursive;
+      
+}
+
+#SPCnewmodel{
+     text-shadow: 0 0 10px rgba(233,85,99,1),
+	0 0 10px rgba(233,85,99,1);
+     font-size:x-large;
+      font-weight: bold;
+}
+
+#Navbartext{
+     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size:x-large;
+}
+
+#footer {
+   
+    bottom: 10px;
+    background-color: #333333;
+    height: 60px;
+    text-align: right;
+    width: 100%;
+    z-index: 1;
+    color: #ffffff;
+ }
