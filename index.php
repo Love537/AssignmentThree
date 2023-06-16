@@ -13,7 +13,7 @@
  
   <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-         <img src="image/LOGO BRUCE.png" class="logo" style="max-width: 90px; height: auto;">
+         <img src="image/Bruce logo.png" class="logo" style="max-width: 90px; height: auto;">
         <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
